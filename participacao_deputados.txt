@@ -1,0 +1,525 @@
+Deputado(a)	Participações
+AJ Albuquerque	18
+Abilio Brunini	65
+Acácio Favacho	43
+Adail Filho	58
+Adilson Barroso	60
+Adolfo Viana	31
+Adriana Ventura	63
+Adriano do Baldy	53
+Afonso Hamm	43
+Afonso Motta	69
+Aguinaldo Ribeiro	38
+Airton Faleiro	54
+Alberto Fraga	61
+Alberto Mourão	49
+Albuquerque	54
+Alceu Moreira	47
+Alencar Santana	75
+Alex Manente	34
+Alex Santana	44
+Alexandre Guimarães	52
+Alexandre Leite	39
+Alexandre Lindenmeyer	56
+Alfredinho	57
+Alfredo Gaspar	85
+Alice Portugal	61
+Aliel Machado	46
+Altineu Côrtes	13
+Aluisio Mendes	60
+Amanda Gentil	40
+Amaro Neto	62
+Amom Mandel	50
+Amália Barros	63
+Ana Paula Leão	65
+Ana Paula Lima	54
+Ana Pimentel	57
+Andreia Siqueira	43
+André Fernandes	52
+André Ferreira	38
+André Figueiredo	62
+André Fufuca	30
+André Janones	49
+Antonio Andrade	46
+Antonio Brito	27
+Antonio Carlos Rodrigues	59
+Antônia Lúcia	33
+Antônio Doido	37
+Any Ortiz	40
+Arlindo Chinaglia	62
+Arnaldo Jardim	52
+Arthur Lira	37
+Arthur Oliveira Maia	56
+Augusto Coutinho	63
+Augusto Puppio	54
+Aureo Ribeiro	48
+Aécio Neves	40
+Bacelar	84
+Baleia Rossi	42
+Bandeira de Mello	61
+Bebeto	58
+Benedita da Silva	62
+Benes Leocádio	60
+Beto Pereira	47
+Beto Preto	5
+Beto Richa	63
+Bia Kicis	60
+Bibo Nunes	62
+Bohn Gass	60
+Bruno Farias	53
+Bruno Ganem	61
+Cabo Gilberto Silva	67
+Caio Vianna	29
+Camila Jara	57
+Capitão Alberto Neto	72
+Capitão Alden	57
+Capitão Augusto	70
+Carla Zambelli	22
+Carlos Chiodini	42
+Carlos Gomes	52
+Carlos Henrique Gaguim	58
+Carlos Jordy	76
+Carlos Sampaio	62
+Carlos Veras	76
+Carlos Zarattini	59
+Carol Dartora	55
+Caroline de Toni	82
+Castro Neto	58
+Celso Russomanno	39
+Celso Sabino	32
+Cezinha de Madureira	53
+Charles Fernandes	61
+Chico Alencar	63
+Chiquinho Brazão	59
+Chris Tonietto	42
+Clarissa Tércio	62
+Claudio Cajado	52
+Cleber Verde	57
+Clodoaldo Magalhães	50
+Cobalchini	78
+Coronel Assis	63
+Coronel Chrisóstomo	62
+Coronel Fernanda	72
+Coronel Meira	69
+Coronel Telhada	44
+Coronel Ulysses	54
+Covatti Filho	67
+Cristiane Lopes	61
+Célia Xakriabá	53
+Célio Silveira	49
+Célio Studart	43
+Da Vitoria	60
+Dagoberto Nogueira	58
+Daiana Santos	52
+Dal Barreto	35
+Damião Feliciano	47
+Dandara	48
+Dani Cunha	56
+Daniel Agrobom	57
+Daniel Almeida	52
+Daniel Barbosa	37
+Daniel Freitas	58
+Daniel Soranz	28
+Daniel Trzeciak	58
+Daniela Reinehr	57
+Danilo Forte	43
+David Soares	39
+Dayany Bittencourt	59
+Defensor Stélio Dener	58
+Delegada Adriana Accorsi	59
+Delegada Ione	55
+Delegada Katarina	79
+Delegado Caveira	58
+Delegado Fabio Costa	64
+Delegado Marcelo Freitas	80
+Delegado Matheus Laiola	62
+Delegado Palumbo	64
+Delegado Paulo Bilynskyj	61
+Delegado Ramagem	88
+Delegado da Cunha	48
+Delegado Éder Mauro	69
+Deltan Dallagnol	78
+Denise Pessôa	56
+Detinha	36
+Diego Andrade	34
+Diego Coronel	78
+Diego Garcia	70
+Dilceu Sperafico	52
+Dilvanda Faro	60
+Dimas Fabiano	56
+Dimas Gadelha	60
+Domingos Neto	37
+Domingos Sávio	54
+Dorinaldo Malafaia	58
+Dr Benjamim	51
+Dr. Fernando Máximo	59
+Dr. Francisco	60
+Dr. Frederico	50
+Dr. Jaziel	40
+Dr. Luiz Ovando	63
+Dr. Victor Linhalis	65
+Dr. Zacharias Calil	54
+Dra. Alessandra Haber	54
+Duarte Jr.	64
+Duda Ramos	45
+Duda Salabert	55
+Eduardo Bismarck	68
+Eduardo Bolsonaro	58
+Eduardo Velloso	51
+Eduardo da Fonte	46
+Elcione Barbalho	50
+Eli Borges	51
+Elmar Nascimento	27
+Emanuel Pinheiro Neto	58
+Emidinho Madeira	41
+Enfermeira Ana Paula	12
+Eriberto Medeiros	54
+Erika Hilton	39
+Erika Kokay	63
+Eros Biondini	46
+Euclydes Pettersen	26
+Eunício Oliveira	31
+Evair Vieira de Melo	63
+Fabio Garcia	60
+Fabio Reis	49
+Fabio Schiochet	49
+Fausto Pinato	55
+Fausto Santos Jr.	62
+Felipe Becari	49
+Felipe Carreras	52
+Felipe Francischini	69
+Fernanda Melchionna	56
+Fernanda Pessoa	60
+Fernando Coelho Filho	51
+Fernando Mineiro	57
+Fernando Monteiro	52
+Fernando Rodolfo	53
+Filipe Barros	48
+Filipe Martins	54
+Flavinha	19
+Florentino Neto	59
+Flávia Morais	52
+Flávio Nogueira	80
+Franciane Bayer	63
+Fred Costa	39
+Fred Linhares	60
+Fábio Macedo	40
+Fábio Teruel	47
+Félix Mendonça Júnior	58
+Gabriel Mota	51
+Gabriel Nunes	54
+General Girão	60
+General Pazuello	58
+Geovania de Sá	59
+Geraldo Mendes	52
+Geraldo Resende	50
+Gerlen Diniz	89
+Gervásio Maia	75
+Giacobo	51
+Gilberto Abramo	61
+Gilberto Nascimento	10
+Gilson Daniel	56
+Gilson Marques	89
+Gilvan Maximo	56
+Gilvan da Federal	60
+Giovani Cherini	54
+Glauber Braga	58
+Glaustin da Fokus	38
+Gleisi Hoffmann	58
+Greyce Elias	54
+Guilherme Boulos	63
+Guilherme Uchoa	60
+Gustavo Gayer	45
+Gustinho Ribeiro	51
+Gutemberg Reis	58
+Heitor Schuch	39
+Helder Salomão	85
+Helena Lima	47
+Helio Lopes	49
+Henderson Pinto	56
+Hercílio Coelho Diniz	55
+Hugo Leal	6
+Hugo Motta	36
+Icaro de Valmir	56
+Idilvan Alencar	62
+Igor Timo	55
+Ismael	58
+Ismael Alexandrino	57
+Isnaldo Bulhões Jr.	24
+Ivan Valente	57
+Ivoneide Caetano	47
+Iza Arruda	53
+Jack Rocha	61
+Jadyel Alencar	32
+Jandira Feghali	53
+Jeferson Rodrigues	50
+Jefferson Campos	51
+Jilmar Tatto	55
+Joaquim Passarinho	62
+Jonas Donizette	58
+Jones Moura	17
+Jorge Braz	56
+Jorge Goetten	74
+Jorge Solla	56
+Joseildo Ramos	54
+Josenildo	63
+Josias Gomes	60
+Josimar Maranhãozinho	36
+Josivaldo JP	46
+José Airton Félix Cirilo	45
+José Guimarães	66
+José Medeiros	59
+José Nelto	60
+José Priante	43
+José Rocha	49
+João Carlos Bacelar	37
+João Daniel	53
+João Leão	41
+João Maia	52
+Juarez Costa	58
+Julia Zanatta	85
+Juliana Cardoso	49
+Julio Arcoverde	46
+Julio Cesar Ribeiro	9
+Julio Lopes	48
+Juninho do Pneu	50
+Junio Amaral	47
+Junior Lourenço	40
+Júlio Cesar	47
+Júnior Ferrari	44
+Júnior Mano	36
+Keniston Braga	48
+Kiko Celeguim	57
+Kim Kataguiri	59
+Lafayette de Andrada	59
+Laura Carneiro	64
+Lebrão	34
+Leonardo Monteiro	52
+Leur Lomanto Júnior	47
+Leônidas Cristino	61
+Lincoln Portela	57
+Lindbergh Farias	75
+Lucas Ramos	58
+Lucas Redecker	82
+Luciano Alves	41
+Luciano Amaral	61
+Luciano Azevedo	54
+Luciano Bivar	26
+Luciano Ducci	54
+Luciano Vieira	59
+Lucio Mosquini	35
+Luis Carlos Gomes	59
+Luis Tibé	18
+Luisa Canziani	30
+Luiz Antônio Corrêa	54
+Luiz Carlos Busato	51
+Luiz Carlos Hauly	4
+Luiz Carlos Motta	55
+Luiz Couto	72
+Luiz Fernando Faria	52
+Luiz Gastão	47
+Luiz Lima	61
+Luiz Nishimori	53
+Luiz Philippe de Orleans e Bragança	54
+Luiza Erundina	1
+Luizianne Lins	58
+Lula da Fonte	53
+Lázaro Botelho	50
+Léo Prates	62
+Lêda Borges	60
+Lídice da Mata	59
+Magda Mofatto	63
+Marangoni	60
+Marcel van Hattem	64
+Marcelo Calero	2
+Marcelo Crivella	59
+Marcelo Lima	58
+Marcelo Moraes	50
+Marcelo Queiroz	60
+Marcelo Álvaro Antônio	37
+Marcio Alvino	63
+Marco Bertaiolli	53
+Marco Brasil	59
+Marcon	55
+Marcos Aurélio Sampaio	52
+Marcos Pereira	56
+Marcos Pollon	71
+Marcos Soares	40
+Marcos Tavares	59
+Maria Arraes	77
+Maria Rosas	64
+Maria do Rosário	46
+Mario Frias	50
+Marreca Filho	41
+Marussa Boldrin	52
+Marx Beltrão	48
+Matheus Noronha	37
+Mauricio Marcon	63
+Mauricio Neves	41
+Mauricio do Vôlei	50
+Mauro Benevides Filho	64
+Maurício Carvalho	49
+Max Lemos	55
+Meire Serafim	56
+Mendonça Filho	73
+Merlong Solano	65
+Mersinho Lucena	54
+Messias Donato	64
+Miguel Lombardi	53
+Miguel Ângelo	53
+Milton Vieira	40
+Misael Varella	42
+Moses Rodrigues	55
+Murillo Gouvea	45
+Murilo Galdino	67
+Márcio Biolchi	50
+Márcio Honaiser	40
+Márcio Jerry	62
+Márcio Marinho	58
+Mário Heringer	47
+Mário Negromonte Jr.	47
+Natália Bonavides	56
+Nely Aquino	59
+Neto Carletto	55
+Newton Cardoso Jr	41
+Nicoletti	69
+Nikolas Ferreira	46
+Nilto Tatto	53
+Odair Cunha	56
+Olival Marques	44
+Orlando Silva	55
+Osmar Terra	46
+Otoni de Paula	39
+Otto Alencar Filho	56
+Padovani	48
+Padre João	62
+Pastor Diniz	56
+Pastor Eurico	59
+Pastor Gil	51
+Pastor Henrique Vieira	68
+Pastor Sargento Isidório	64
+Patrus Ananias	38
+Paulinho Freire	61
+Paulo Abi-Ackel	31
+Paulo Alexandre Barbosa	42
+Paulo Azi	42
+Paulo Foletto	38
+Paulo Freire Costa	57
+Paulo Guedes	56
+Paulo Litro	44
+Paulo Magalhães	61
+Paulão	57
+Pedro Aihara	54
+Pedro Campos	60
+Pedro Lucas Fernandes	52
+Pedro Lupion	63
+Pedro Paulo	45
+Pedro Uczai	60
+Pedro Westphalen	56
+Pezenti	48
+Pinheirinho	42
+Pompeo de Mattos	53
+Pr. Marco Feliciano	82
+Prof. Paulo Fernando	51
+Prof. Reginaldo Veras	57
+Professor Alcides	52
+Professora Goreth	53
+Professora Luciene Cavalcante	65
+Rafael Brito	54
+Rafael Prudente	54
+Rafael Simoes	62
+Raimundo Costa	45
+Raimundo Santos	59
+Reginaldo Lopes	43
+Reginete Bispo	56
+Reimont	60
+Reinhold Stephanes	46
+Reinhold Stephanes Junior	1
+Renan Ferreirinha	5
+Renata Abreu	49
+Renilce Nicodemos	48
+Renildo Calheiros	59
+Ricardo Abrão	46
+Ricardo Ayres	61
+Ricardo Guidi	55
+Ricardo Maia	49
+Ricardo Salles	50
+Ricardo Silva	34
+Roberta Roma	51
+Roberto Duarte	83
+Roberto Monteiro	62
+Robinson Faria	79
+Rodolfo Nogueira	56
+Rodrigo Estacho	57
+Rodrigo Gambale	55
+Rodrigo Valadares	41
+Rodrigo de Castro	54
+Rogéria Santos	56
+Rogério Correia	59
+Romero Rodrigues	60
+Rosana Valle	51
+Roseana Sarney	29
+Rosângela Moro	84
+Rosângela Reis	76
+Rubens Otoni	61
+Rubens Pereira Júnior	76
+Rui Falcão	82
+Ruy Carneiro	53
+Samuel Viana	54
+Sanderson	59
+Sandro Alex	5
+Sargento Fahur	64
+Sargento Gonçalves	59
+Sargento Portugal	58
+Saullo Vianna	49
+Sergio Souza	60
+Sidney Leite	39
+Silas Câmara	37
+Silvia Cristina	49
+Silvia Waiãpi	57
+Silvio Costa Filho	54
+Silvye Alves	62
+Simone Marquetto	55
+Socorro Neri	56
+Sonize Barbosa	41
+Soraya Santos	48
+Stefano Aguiar	49
+Sâmia Bomfim	79
+Sóstenes Cavalcante	35
+Tabata Amaral	58
+Tadeu Veneri	56
+Talíria Petrone	38
+Tarcísio Motta	88
+Thiago Flores	63
+Thiago de Joaldo	63
+Tiririca	42
+Tião Medeiros	59
+Toninho Wandscheer	34
+Túlio Gadêlha	52
+Valmir Assunção	56
+Vander Loubet	57
+Vermelho	44
+Vicentinho	55
+Vicentinho Júnior	43
+Vinicius Carvalho	48
+Vinicius Gurgel	42
+Vitor Lippi	58
+Waldemar Oliveira	75
+Waldenor Pereira	30
+Washington Quaquá	34
+Weliton Prado	55
+Wellington Roberto	48
+Welter	55
+Wilson Santiago	49
+Yandra Moura	59
+Yury do Paredão	71
+Zeca Dirceu	45
+Zezinho Barbary	49
+Zucco	67
+Zé Haroldo Cathedral	82
+Zé Neto	57
+Zé Silva	56
+Zé Trovão	61
+Zé Vitor	31
+Átila Lins	41
+Átila Lira	81
