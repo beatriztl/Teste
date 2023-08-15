@@ -115,7 +115,7 @@ class GrafoPonderado:
     def calculate_normalized_weight(agreements, votes):
         return agreements / int(votes) 
 
-    def criar_grafo_votacoes_iguais(ano, partido, grafo_saida_txt, threshold):
+    def criar_grafo_votacoes_iguais(ano, partido, grafo_saida_txt, threshold, pdf_output_filename):
         nome_arquivo1 = f"graph{ano}.txt"
         nome_arquivo2 = f"politicians{ano}.txt"
         threshold = float(threshold)
@@ -147,6 +147,7 @@ class GrafoPonderado:
                     
         # Calcular e armazenar os pesos normalizados das arestas
         normalized_weights = {}
+        betweenness_scores = {}
        
         for node1, node2, data in grafo.edges(data=True):
             for index, linha in enumerate(data2):
@@ -175,3 +176,23 @@ class GrafoPonderado:
         with open(grafo_saida_txt, "w", encoding="utf-8") as arquivo_saida:         
             for (dep1, dep2), weight in normalized_weights.items():
                 arquivo_saida.write(f"{dep1};{dep2} {weight:.3f}\n")
+
+        betweenness = nx.betweenness_centrality(grafo, normalized=False)
+        #print("Betweenness values:", betweenness)
+
+        deputados = list(betweenness.keys()) 
+        scores = list(betweenness.values()) 
+        plt.figure(figsize=(20, 10))
+        plt.bar(deputados, scores) 
+        plt.xlabel('Deputados')
+        plt.ylabel('Betweenness')
+        plt.title('Medida de Centralidade - Betweenness')
+        plt.xticks(rotation=45, ha='right') 
+        plt.tight_layout()  
+        plt.gcf().subplots_adjust(bottom=0.20)
+        
+        
+        with PdfPages(pdf_output_filename) as pdf:
+            pdf.savefig()
+            plt.close()
+

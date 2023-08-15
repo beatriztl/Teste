@@ -48,5 +48,5 @@ else:
     threshold = input("Informe o percentual minimo de concordancia ( threshold ) ( ex . 0.9) :") 
     grafo_resultado_filtros = f"grafo_votacoes_iguais_por_filtros_{ano}.txt"
     grafico_centralidade = f"grafico_centralidade_{ano}.pdf"
-    GrafoPonderado.criar_grafo_votacoes_iguais(ano, partido, grafo_resultado_filtros, threshold)
+    GrafoPonderado.criar_grafo_votacoes_iguais(ano, partido, grafo_resultado_filtros, threshold, f"grafico_centralidade_{ano}.pdf")
     print(f"Grafo de votações iguais normalizado salvo em {grafo_resultado_filtros}.")
